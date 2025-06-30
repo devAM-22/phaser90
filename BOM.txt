@@ -1,0 +1,44 @@
+--- Bill of Materials ---
+
+Electronics:
+------------------------------------------------------------------------------------
+Ref(s)                              Description                                Qty
+C1                                  capacitor, 10µF				1  
+C2, C4, C6, C8, C12, C13            capacitor, 47nF				6  
+C3, C5, C11                         capacitor, 10nF				3  
+C9                                  capacitor, 47µF				1  
+D1                                  diode, Zener 5.1V				1  
+D2                                  diode, LED-RED				1  
+J1, J2, J3, J5                      JFET, BF256B				4  
+Q1                                  bipolar transistor, 2N3904			1  
+Q2                                  bipolar transistor, 2N3906			1  
+R1                                  resistor, 4.7M				1  
+R2                                  resistor, 1M				1  
+R3                                  resistor, 470K				1  
+R4, R5, R8, R10, R18, R19           resistor, 150K				6  
+R6                                  resistor, 2K				1  
+R7, R11                             resistor, 2.2M				2  
+R9                                  resistor, 47K				1  
+R12–R17, R21, R25, R27–R29,  
+R31, R32                            resistor, 10K				13  
+R20                                 resistor, 500				1  
+R22, R23, R30, R33                  resistor, 22K				4  
+R24                                 resistor, 120K				1  
+U1–U6				    TL072					3  
+VR1                                 potentiometer,470K				1  
+VR2                                 trim pot,100K				1
+VR3    				    potentiometer,250k  			1
+------------------------------------------------------------------------------------
+Price estimation: ~24 €
+
+Pedal casing:
+------------------------------------------------------------------------------------
+Ref(s)                              Description                                Qty
+
+Case				    aluminium-case				1
+SW1				    SPDT switch					1
+Plug			    	    Guitar-plug					2
+------------------------------------------------------------------------------------
+Price estimation: ~15 €
+------------------------------------------------------------------------------------
+Total: ~39€

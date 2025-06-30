@@ -26,6 +26,10 @@ Original LTspice schematics were made by Barbarach at: https://barbarach.com/bre
   Resistors R22, R23, R30, and R33 have been changed from 10k to 22k to allow better JFET biasing and improved phasing.
 
 ---
+### EDIT (30.6.2025):
+
+* **Bill of materials**
+  The first version of the bill of materials has been added. It includes a price estimation for all the required parts.
 
 ### TODO:
 
