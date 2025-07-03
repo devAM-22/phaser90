@@ -45,3 +45,9 @@ LTspice allows the user to listen to what the effect sounds like before building
 This can be done using the `.wave` and `wavefile` commands included in `Phase 90.sch`.
 However, it's important to check that the file paths in these commands are correct before running the simulation.
 These commands are CPU-intensive, so it's wise to keep the file and simulation durations as short as possible.
+
+---
+
+**In case of more questions contact:**
+
+manni.aapo@gmail.com
