@@ -31,6 +31,12 @@ Original LTspice schematics were made by Barbarach at: https://barbarach.com/bre
 * **Bill of materials**
   The first version of the bill of materials has been added. It includes a price estimation for all the required parts.
 
+### EDIT (10.7.2025):
+
+* **KiCad schematic**
+  Added first version of the schematic, which will later be turned into a PCB or perfboard layout.
+  This version doesn't yet include the tremolo effect selector or the bypass switch. 
+
 ### TODO:
 
 * Breadboard testing
