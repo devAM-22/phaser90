@@ -4829,7 +4829,7 @@
 				)
 			)
 		)
-		(property "Value" "250k"
+		(property "Value" "100k"
 			(at 134.366 102.108 90)
 			(effects
 				(font
@@ -5865,13 +5865,13 @@
 			(uuid "1fd2f941-beee-49a1-82c1-bff8b1b96f09")
 		)
 		(pin "8"
-			(uuid "10086076-f109-4c92-8393-b470ec940cb6")
+			(uuid "10086076-f109-4c92-8393-b470ec940cb7")
 		)
 		(pin "5"
-			(uuid "06cac99e-d571-4332-a27e-14572e4e0bbf")
+			(uuid "06cac99e-d571-4332-a27e-14572e4e0bc0")
 		)
 		(pin "4"
-			(uuid "a5786b4d-3ded-4020-901d-e70c9661c1b9")
+			(uuid "a5786b4d-3ded-4020-901d-e70c9661c1ba")
 		)
 		(pin "2"
 			(uuid "2cbefd16-67a9-4f27-8d39-cc7044a5f29b")
@@ -5880,10 +5880,10 @@
 			(uuid "1bda8381-81a5-4360-ba32-7297af327f0b")
 		)
 		(pin "6"
-			(uuid "febc5c46-e6fe-4ed6-bc59-9b90bbbb192b")
+			(uuid "febc5c46-e6fe-4ed6-bc59-9b90bbbb192c")
 		)
 		(pin "7"
-			(uuid "483a885e-63c9-4a6e-b3ab-3ea107cadcb5")
+			(uuid "483a885e-63c9-4a6e-b3ab-3ea107cadcb6")
 		)
 		(instances
 			(project "pcb_layout_phaser90"
@@ -6390,7 +6390,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "500"
+		(property "Value" "470"
 			(at 162.56 153.6699 0)
 			(effects
 				(font
@@ -6699,13 +6699,13 @@
 			(uuid "8ab8fe32-5b2a-4793-aae6-3dc1da01bb96")
 		)
 		(pin "8"
-			(uuid "10086076-f109-4c92-8393-b470ec940cb6")
+			(uuid "10086076-f109-4c92-8393-b470ec940cb8")
 		)
 		(pin "5"
-			(uuid "06cac99e-d571-4332-a27e-14572e4e0bbf")
+			(uuid "06cac99e-d571-4332-a27e-14572e4e0bc1")
 		)
 		(pin "4"
-			(uuid "a5786b4d-3ded-4020-901d-e70c9661c1b9")
+			(uuid "a5786b4d-3ded-4020-901d-e70c9661c1bb")
 		)
 		(pin "2"
 			(uuid "6401704f-afb7-4b60-98b4-270b9311817a")
@@ -6714,10 +6714,10 @@
 			(uuid "ce3cd479-286e-45a4-9081-e67e0cce9f18")
 		)
 		(pin "6"
-			(uuid "febc5c46-e6fe-4ed6-bc59-9b90bbbb192b")
+			(uuid "febc5c46-e6fe-4ed6-bc59-9b90bbbb192d")
 		)
 		(pin "7"
-			(uuid "483a885e-63c9-4a6e-b3ab-3ea107cadcb5")
+			(uuid "483a885e-63c9-4a6e-b3ab-3ea107cadcb7")
 		)
 		(instances
 			(project "pcb_layout_phaser90"
@@ -7982,13 +7982,13 @@
 			(uuid "ea18a366-596d-482f-b61b-b244b8986c91")
 		)
 		(pin "8"
-			(uuid "10086076-f109-4c92-8393-b470ec940cb6")
+			(uuid "10086076-f109-4c92-8393-b470ec940cb9")
 		)
 		(pin "5"
-			(uuid "06cac99e-d571-4332-a27e-14572e4e0bbf")
+			(uuid "06cac99e-d571-4332-a27e-14572e4e0bc2")
 		)
 		(pin "4"
-			(uuid "a5786b4d-3ded-4020-901d-e70c9661c1b9")
+			(uuid "a5786b4d-3ded-4020-901d-e70c9661c1bc")
 		)
 		(pin "2"
 			(uuid "ef0ade13-3941-46f2-8942-7f7a1f69c34d")
@@ -7997,10 +7997,10 @@
 			(uuid "18c4beee-2803-4b7c-b93a-bee59566418c")
 		)
 		(pin "6"
-			(uuid "febc5c46-e6fe-4ed6-bc59-9b90bbbb192b")
+			(uuid "febc5c46-e6fe-4ed6-bc59-9b90bbbb192e")
 		)
 		(pin "7"
-			(uuid "483a885e-63c9-4a6e-b3ab-3ea107cadcb5")
+			(uuid "483a885e-63c9-4a6e-b3ab-3ea107cadcb8")
 		)
 		(instances
 			(project "pcb_layout_phaser90"
@@ -8743,7 +8743,7 @@
 				)
 			)
 		)
-		(property "Value" "470k"
+		(property "Value" "500k"
 			(at 128.016 142.748 90)
 			(effects
 				(font
@@ -9160,13 +9160,13 @@
 			(uuid "cdeedfb0-9188-4abe-a493-0cf8169c527f")
 		)
 		(pin "8"
-			(uuid "10086076-f109-4c92-8393-b470ec940cb6")
+			(uuid "10086076-f109-4c92-8393-b470ec940cba")
 		)
 		(pin "5"
-			(uuid "06cac99e-d571-4332-a27e-14572e4e0bbf")
+			(uuid "06cac99e-d571-4332-a27e-14572e4e0bc3")
 		)
 		(pin "4"
-			(uuid "a5786b4d-3ded-4020-901d-e70c9661c1b9")
+			(uuid "a5786b4d-3ded-4020-901d-e70c9661c1bd")
 		)
 		(pin "2"
 			(uuid "8e5b9b72-c679-4919-b442-d48aa98aff64")
@@ -9175,10 +9175,10 @@
 			(uuid "5a356830-21fb-481f-b485-f85c1e086e2d")
 		)
 		(pin "6"
-			(uuid "febc5c46-e6fe-4ed6-bc59-9b90bbbb192b")
+			(uuid "febc5c46-e6fe-4ed6-bc59-9b90bbbb192f")
 		)
 		(pin "7"
-			(uuid "483a885e-63c9-4a6e-b3ab-3ea107cadcb5")
+			(uuid "483a885e-63c9-4a6e-b3ab-3ea107cadcb9")
 		)
 		(instances
 			(project ""
@@ -9282,13 +9282,13 @@
 			(uuid "2ed0e912-cc50-47e9-b0d1-319bdbf84a4d")
 		)
 		(pin "8"
-			(uuid "10086076-f109-4c92-8393-b470ec940cb6")
+			(uuid "10086076-f109-4c92-8393-b470ec940cbb")
 		)
 		(pin "5"
-			(uuid "06cac99e-d571-4332-a27e-14572e4e0bbf")
+			(uuid "06cac99e-d571-4332-a27e-14572e4e0bc4")
 		)
 		(pin "4"
-			(uuid "a5786b4d-3ded-4020-901d-e70c9661c1b9")
+			(uuid "a5786b4d-3ded-4020-901d-e70c9661c1be")
 		)
 		(pin "2"
 			(uuid "afede930-95c5-48b6-9de9-74ae81cba6f9")
@@ -9297,10 +9297,10 @@
 			(uuid "5e9e3c52-bce0-4350-a4c5-c355f2e8c279")
 		)
 		(pin "6"
-			(uuid "febc5c46-e6fe-4ed6-bc59-9b90bbbb192b")
+			(uuid "febc5c46-e6fe-4ed6-bc59-9b90bbbb1930")
 		)
 		(pin "7"
-			(uuid "483a885e-63c9-4a6e-b3ab-3ea107cadcb5")
+			(uuid "483a885e-63c9-4a6e-b3ab-3ea107cadcba")
 		)
 		(instances
 			(project "pcb_layout_phaser90"

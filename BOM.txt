@@ -21,13 +21,13 @@ R7, R11                             resistor, 2.2M				2
 R9                                  resistor, 47K				1  
 R12–R17, R21, R25, R27–R29,  
 R31, R32                            resistor, 10K				13  
-R20                                 resistor, 500				1  
+R20                                 resistor, 470				1  
 R22, R23, R30, R33                  resistor, 22K				4  
 R24                                 resistor, 120K				1  
 U1–U6				    TL072					3  
-VR1                                 potentiometer,470K				1  
+VR1                                 potentiometer LOG,500K			1  
 VR2                                 trim pot,100K				1
-VR3    				    potentiometer,250k  			1
+VR3    				    potentiometer LIN,100k  			1
 ------------------------------------------------------------------------------------
 Price estimation: ~24 €
 
